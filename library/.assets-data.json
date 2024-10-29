@@ -1,0 +1,71 @@
+{
+  "c8a8d130-3f19-4847-8dd1-42fd095b6ae2": {
+    "url": "db://assets/scene/main.scene",
+    "value": {
+      "depends": [
+        "c8a8d130-3f19-4847-8dd1-42fd095b6ae2",
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "0f864cbb-1ea9-4022-9e98-6c234165bf7b@f9941"
+      ],
+      "dependScripts": [
+        "726bd493-6031-4d2b-ab46-611002a6663a",
+        "51f20f60-14c0-4c35-9446-7b4b43e4ec94"
+      ]
+    },
+    "versionCode": 0
+  },
+  "209daf26-2006-4302-a765-25306fa3b7d3": {
+    "url": "db://assets/scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "365d2996-b8d8-4fc5-b77d-b6c91d2724fa": {
+    "url": "db://assets/texture",
+    "value": {},
+    "versionCode": 0
+  },
+  "0f864cbb-1ea9-4022-9e98-6c234165bf7b": {
+    "url": "db://assets/texture/button.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "0f864cbb-1ea9-4022-9e98-6c234165bf7b@6c48a": {
+    "url": "db://assets/texture/button.png@6c48a",
+    "value": {
+      "depends": [
+        "0f864cbb-1ea9-4022-9e98-6c234165bf7b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0f864cbb-1ea9-4022-9e98-6c234165bf7b@f9941": {
+    "url": "db://assets/texture/button.png@f9941",
+    "value": {
+      "depends": [
+        "0f864cbb-1ea9-4022-9e98-6c234165bf7b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "506fec5a-736a-4a8a-99c1-beaec02162c3": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 0
+  },
+  "51f20f60-14c0-4c35-9446-7b4b43e4ec94": {
+    "url": "db://assets/scripts/Main.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "726bd493-6031-4d2b-ab46-611002a6663a": {
+    "url": "db://assets/scripts/UIButton.ts",
+    "value": {},
+    "versionCode": 0
+  }
+}

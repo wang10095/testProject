@@ -1,0 +1,110 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/mac/Desktop/TestProject/assets/scene.meta": {
+      "time": 1730162334068.8699
+    },
+    "/Users/mac/Desktop/TestProject/assets/scene": {
+      "time": 1730162335739.3845,
+      "uuid": "209daf26-2006-4302-a765-25306fa3b7d3"
+    },
+    "/Users/mac/Desktop/TestProject/assets/scene/main.scene.meta": {
+      "time": 1730162306381.5986
+    },
+    "/Users/mac/Desktop/TestProject/assets/scene/main.scene": {
+      "time": 1730192821671.8296,
+      "uuid": "c8a8d130-3f19-4847-8dd1-42fd095b6ae2"
+    },
+    "/Users/mac/Desktop/TestProject/assets/texture.meta": {
+      "time": 1730162341430.1665
+    },
+    "/Users/mac/Desktop/TestProject/assets/texture": {
+      "time": 1730163100275.0571,
+      "uuid": "365d2996-b8d8-4fc5-b77d-b6c91d2724fa"
+    },
+    "/Users/mac/Desktop/TestProject/assets/texture/button.png.meta": {
+      "time": 1730163100312.302
+    },
+    "/Users/mac/Desktop/TestProject/assets/texture/button.png": {
+      "time": 1730163100274.031,
+      "uuid": "0f864cbb-1ea9-4022-9e98-6c234165bf7b"
+    },
+    "/Users/mac/Desktop/TestProject/assets/scripts.meta": {
+      "time": 1730163112085.1858
+    },
+    "/Users/mac/Desktop/TestProject/assets/scripts": {
+      "time": 1730192438929.721,
+      "uuid": "506fec5a-736a-4a8a-99c1-beaec02162c3"
+    },
+    "/Users/mac/Desktop/TestProject/assets/scripts/Main.ts.meta": {
+      "time": 1730163126793.9795
+    },
+    "/Users/mac/Desktop/TestProject/assets/scripts/Main.ts": {
+      "time": 1730192425666.63,
+      "uuid": "51f20f60-14c0-4c35-9446-7b4b43e4ec94"
+    },
+    "/Users/mac/Desktop/TestProject/assets/scripts/UIButton.ts.meta": {
+      "time": 1730192438930.6597
+    },
+    "/Users/mac/Desktop/TestProject/assets/scripts/UIButton.ts": {
+      "time": 1730192422443.8267,
+      "uuid": "726bd493-6031-4d2b-ab46-611002a6663a"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scene": {
+      "time": 1730162335739.3845,
+      "uuid": "209daf26-2006-4302-a765-25306fa3b7d3"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scripts": {
+      "time": 1730192438929.721,
+      "uuid": "506fec5a-736a-4a8a-99c1-beaec02162c3"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/texture": {
+      "time": 1730163100275.0571,
+      "uuid": "365d2996-b8d8-4fc5-b77d-b6c91d2724fa"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scripts/Main.ts": {
+      "time": 1730192954956.4326,
+      "uuid": "51f20f60-14c0-4c35-9446-7b4b43e4ec94"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scripts/UIButton.ts": {
+      "time": 1730192422443.8267,
+      "uuid": "726bd493-6031-4d2b-ab46-611002a6663a"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scene.meta": {
+      "time": 1730162334068.8699
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scripts.meta": {
+      "time": 1730163112085.1858
+    },
+    "/Users/mac/Desktop/222/testProject/assets/texture.meta": {
+      "time": 1730162341430.1665
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scripts/Main.ts.meta": {
+      "time": 1730163126793.9795
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scripts/UIButton.ts.meta": {
+      "time": 1730192438930.6597
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scene/main.scene": {
+      "time": 1730193770325.6265,
+      "uuid": "c8a8d130-3f19-4847-8dd1-42fd095b6ae2"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/texture/button.png": {
+      "time": 1730163100274.031,
+      "uuid": "0f864cbb-1ea9-4022-9e98-6c234165bf7b"
+    },
+    "/Users/mac/Desktop/222/testProject/assets/scene/main.scene.meta": {
+      "time": 1730162306381.5986
+    },
+    "/Users/mac/Desktop/222/testProject/assets/texture/button.png.meta": {
+      "time": 1730163100312.302
+    }
+  },
+  "missing": {
+    "c8a8d130-3f19-4847-8dd1-42fd095b6ae2": {
+      "path": "/Users/mac/Desktop/TestProject/assets/main.scene",
+      "time": 1730162325532.6265,
+      "removeTime": 1730162335739
+    }
+  }
+}
